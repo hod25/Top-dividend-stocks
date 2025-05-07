@@ -3,7 +3,7 @@
 This Python script allows you to analyze stock performance based on total return (including dividends) over a custom date range.  
 You provide a CSV file with a list of stock tickers, and the script outputs the 5 stocks with the highest total return.
 
----------
+---
 
 ## Features
 
@@ -13,7 +13,7 @@ You provide a CSV file with a list of stock tickers, and the script outputs the 
   \[(End Price - Start Price + Total Dividends) / Start Price\]
 - Prints the top 5 stocks with the highest return
 
-------------
+---
 
 ## Requirements
 
